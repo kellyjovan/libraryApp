@@ -1,0 +1,14 @@
+{
+    "name" : "libraryApp",
+    "version": "0.0.0",
+    "description" : "To allow students to be able to self checkout books",
+    "main": "server.js",
+    "author": "Aoit",
+    "dependencies": {
+        "express":          "*",
+        "mongoose":         "*",
+        "morgan":           "*",
+        "body-parser":      "*",
+        "method-override": "*"
+    }
+}
